@@ -1,4 +1,4 @@
-pplicationHelper
+module ApplicationHelper
 
   # ページ毎に完全なタイトルを返す         # ドキュメントとしてのコメント
   def full_title(page_title = '')                     # メソッド定義とオプション引数
